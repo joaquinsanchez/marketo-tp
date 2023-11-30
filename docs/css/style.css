@@ -113,7 +113,7 @@ header h2 .color {
     left:30%;
     transform: translateX(-50%);
     text-align: center;
-    background: #dedede;
+    background: #d80909;
     border-radius: 3px;
     color: #f2f2f2;
     width: 160px;
@@ -189,6 +189,8 @@ footer {
     float: center;
     margin-top: 150px;
 }
+
+
 
 
 
