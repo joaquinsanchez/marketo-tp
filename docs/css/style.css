@@ -24,7 +24,7 @@ h2 {
 }
 h3 {
     font-family: 'Crete Round', serif;
-    font-size: 40px;
+    font-size: 35px;
     color: #444;
     font-weight: regular;
     text-transform: None;
@@ -39,11 +39,14 @@ h4 {
     margin-bottom: 20px;
 }
 h5 {
-    font-size: 15px;
-    color: #444;
-    font-weight: bold;
-    text-transform: uppercase;
+    font-family: 'Crete Round', serif;
+    font-weight: 150;
+    color: #333333;
+    font-size: 50px;
+    text-align: left;
+    margin-top: 450px;
 }
+
 a {
     text-decoration: none;
     color: #444;
@@ -110,10 +113,10 @@ header h2 .color {
 .button-1 {
     display: inline-block;
     position: relative;
-    left:30%;
+    left:28%;
     transform: translateX(-50%);
     text-align: center;
-    background: #d80909;
+    background: #3b5f85;
     border-radius: 3px;
     color: #f2f2f2;
     width: 160px;
@@ -121,7 +124,7 @@ header h2 .color {
     font-size: 18px;
     line-height: 50px;
     margin: 0 auto;
-    bottom: -380px;
+    bottom: -410px;
 }
 
 .button-2 {
@@ -138,16 +141,16 @@ header h2 .color {
     font-size: 18px;
     line-height: 50px;
     margin: 0 auto;
-    bottom: -380px;
+    bottom: -410px;
 }
 
 .button-3 {
     display: inline-block;
     position: relative;
-    left:30%;
+    left:32%;
     transform: translateX(-50%);
     text-align: center;
-    background:  #dedede;
+    background:  #dadada;
     border-radius: 3px;
     color: #f2f2f2;
     width: 160px;
@@ -155,7 +158,58 @@ header h2 .color {
     font-size: 18px;
     line-height: 50px;
     margin: 0 auto;
-    bottom: -380px;
+    bottom: -410px;
+}
+
+.button-4 {
+    display: inline-block;
+    position: relative;
+    left:28%;
+    transform: translateX(-50%);
+    text-align: center;
+    background: #dadada;
+    border-radius: 3px;
+    color: #f2f2f2;
+    width: 160px;
+    height: 50px;
+    font-size: 18px;
+    line-height: 50px;
+    margin: 0 auto;
+    bottom: -470px;
+}
+
+.button-5 {
+    display: inline-block;
+    position: relative;
+    left:30%;
+    transform: translateX(-50%);
+    text-align: center;
+    background:  #dadada;
+    border-radius: 3px;
+    color: #f2f2f2;
+    width: 160px;
+    height: 50px;
+    font-size: 18px;
+    line-height: 50px;
+    margin: 0 auto;
+    bottom: -470px;
+}
+
+.button-6 {
+    display: inline-block;
+    position: relative;
+    left:32%;
+    transform: translateX(-50%);
+    text-align: center;
+    background:  #dadada;
+    border-radius: 3px;
+    color: #f2f2f2;
+    width: 160px;
+    height: 50px;
+    font-size: 18px;
+    line-height: 50px;
+    margin: 0 auto;
+    bottom: -470px;
 }
 
 #features ul {
@@ -187,8 +241,84 @@ footer {
 #footer-info {
     width: 1000px;
     float: center;
-    margin-top: 150px;
+    margin-top: 180px;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
